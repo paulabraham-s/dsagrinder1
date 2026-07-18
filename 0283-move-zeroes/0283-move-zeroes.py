@@ -1,12 +1,7 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        result = []
-        for num in nums:
-            if num != 0:
-                result.append(num)
-        
-        zero_count = len(nums) - len(result)
-        result.extend([0] * zero_count)
-        
+        insert_pos = 0
         for i in range(len(nums)):
-            nums[i] = result[i]
+            if nums[i] != 0:
+                nums[insert_pos], nums[i] = nums[i], nums[insert_pos]
+                insert_pos += 1
