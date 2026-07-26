@@ -1,8 +1,8 @@
 class Solution:
     def singleNumber(self, nums):
-        result = 0
+        ans = 0
 
         for num in nums:
-            result ^= num
+            ans ^= num
 
-        return result
+        return ans
