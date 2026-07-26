@@ -1,10 +1,11 @@
 class Solution:
     def check(self, nums):
+        count = 0
         n = len(nums)
-        breaks = 0
+
         for i in range(n):
             if nums[i] > nums[(i + 1) % n]:
-                breaks += 1
-            if breaks > 1:
-                return False
-        return True
+                count += 1
+
+        return count <= 1
+        
