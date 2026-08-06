@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/paulabraham-s/dsagrinder1/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paulabraham-s/dsagrinder1/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/paulabraham-s/dsagrinder1/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/paulabraham-s/dsagrinder1/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/paulabraham-s/dsagrinder1/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paulabraham-s/dsagrinder1/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/paulabraham-s/dsagrinder1/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/paulabraham-s/dsagrinder1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paulabraham-s/dsagrinder1/tree/master/0283-move-zeroes) |
@@ -67,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
