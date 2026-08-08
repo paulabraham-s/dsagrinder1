@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/paulabraham-s/dsagrinder1/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/paulabraham-s/dsagrinder1/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/0560-subarray-sum-equals-k) |
+| [1314-matrix-block-sum](https://github.com/paulabraham-s/dsagrinder1/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/paulabraham-s/dsagrinder1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/paulabraham-s/dsagrinder1/tree/master/0054-spiral-matrix) |
+| [1314-matrix-block-sum](https://github.com/paulabraham-s/dsagrinder1/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/0560-subarray-sum-equals-k) |
+| [1314-matrix-block-sum](https://github.com/paulabraham-s/dsagrinder1/tree/master/1314-matrix-block-sum) |
 ## Greedy
 |  |
 | ------- |
