@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/paulabraham-s/dsagrinder1/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/paulabraham-s/dsagrinder1/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/paulabraham-s/dsagrinder1/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
