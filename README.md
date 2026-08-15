@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/0560-subarray-sum-equals-k) |
 | [1314-matrix-block-sum](https://github.com/paulabraham-s/dsagrinder1/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/paulabraham-s/dsagrinder1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/paulabraham-s/dsagrinder1/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/paulabraham-s/dsagrinder1/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/paulabraham-s/dsagrinder1/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulabraham-s/dsagrinder1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
